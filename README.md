@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Harel Surya Darma
 
-![Harel Surya Darma](img/github-header-image.png)
+![Harel Surya Darma](img/github-header-image%20(1).png)
 ## 💫 About Me:
 Hi! I'm Harel Surya Darma, an Informatics Engineering student at Politeknik Caltex Riau. I love technology, especially web development and programming. Always curious, always learning.
 
