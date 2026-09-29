@@ -1,4 +1,5 @@
 ![Harel Surya Darma](img/banner.png)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harelnainggolan98) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harelsuryadarma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryadarma4k@gmail.com) 
 
@@ -7,5 +8,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=suryadarma4k&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=suryadarma4k&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=suryadarma4k&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=suryadarma4k&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+<img data-importer="profile-views" align="left" src="https://visitor-badge.laobi.icu/badge?page_id=suryadarma4k.suryadarma4k&"  />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
