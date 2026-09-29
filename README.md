@@ -9,4 +9,10 @@
 ![](https://streak-stats.demolab.com/?user=suryadarma4k&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=suryadarma4k&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<h2 data-importer="text" align="left">Play Game with Me</h2>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryadarma4k/suryadarma4k/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryadarma4k/suryadarma4k/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suryadarma4k/suryadarma4k/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
