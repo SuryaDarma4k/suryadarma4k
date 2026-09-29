@@ -1,4 +1,4 @@
-
+![Harel Surya Darma](img/banner.png)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harelnainggolan98) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harelsuryadarma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryadarma4k@gmail.com) 
 
